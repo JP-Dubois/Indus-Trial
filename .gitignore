@@ -112,3 +112,11 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Third-party Asset Store pack (Leartes Studios Industrial Harbour): licensed,
+# not redistributable, and too large for GitHub. Kept local only; this repo is
+# public so the Unity Pipeline can read it.
+/[Aa]ssets/LeartesStudios/
+/[Aa]ssets/LeartesStudios.meta
+/[Aa]ssets/L_Showcase_Settings.lighting
+/[Aa]ssets/L_Showcase_Settings.lighting.meta
